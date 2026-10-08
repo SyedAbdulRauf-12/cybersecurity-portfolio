@@ -57,11 +57,11 @@ grep "word" /path/to/folder/*`
 
   ---
 
-  ## 3. USEFUL FLAGS (OPTIONS)
-  You can mix and match these flags together.
+## 3. USEFUL FLAGS (OPTIONS)
+You can mix and match these flags together.
 
-  | FLAG | WHAT IT DOES |
-  |------|--------------|
+| FLAG | WHAT IT DOES |
+|------|--------------|
 | -i | Ignore case — matches "Word", "WORD", "word" all the same |
 |-w | Whole word only — won't match "password" if you search "pass" |
 | -n | Show line numbers where the match was found |
