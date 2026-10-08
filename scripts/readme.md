@@ -1,2 +1,3 @@
-### This folder is exclusively for my python and bash scripts.
-## You will find the files here that I have practiced hands on.
+# Scripts
+- This folder will contain Python and Bash scripts.
+- It may also contain general Python code used to build tools.
