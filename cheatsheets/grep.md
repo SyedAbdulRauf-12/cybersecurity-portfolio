@@ -10,7 +10,8 @@ Basic syntax:
 ---
 
 ## CHEAT SHEET — QUICK COPY-PASTE COMMANDS
-| COMMANDS | ACTION |  
+| COMMANDS | ACTION |
+|----------|--------|
 | grep "term" file.txt               |     Single file search |
 | grep "term" *                      |     All files in current folder |
 | grep -r "term" .                   |     Recursive from current folder |
