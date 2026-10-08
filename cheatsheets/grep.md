@@ -97,11 +97,12 @@ grep -wn "admin" users.txt`
 ---
 
 ## 5. HIDING ERRORS (USEFUL FOR PERMISSION DENIED MESSAGES)
-When searching system folders, you get a lot of "Permission denied" errors cluttering the output.
-Add this to the end of your command to hide them:
-`2>/dev/null`
-Example:
-`grep -r "password" /etc/ 2>/dev/null`
+When searching system folders, you get a lot of "Permission denied" errors cluttering the output.  
+Add this to the end of your command to hide them:  
+`2>/dev/null`  
+
+Example:  
+`grep -r "password" /etc/ 2>/dev/null`  
 This redirects error messages away so you only see real results.
 
 ---
