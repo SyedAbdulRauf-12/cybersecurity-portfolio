@@ -12,6 +12,7 @@ scripts, and projects built through real hands-on learning.
 | Folder | Contents |
 |--------|----------|
 | cheatsheets/ | Command references for Linux, Windows, nmap, tcpdump, grep and more |
+| college-notes-and-walkthroughs/ | College notes w.r.t subjects, labs and walkthroughs for setups |
 | ctf-writeups/ | CTF challenge writeups with tools used and approach taken |
 | scripts/ | Python and Bash scripts written from scratch |
 | thm-progress/ | TryHackMe room writeups and key takeaways |
