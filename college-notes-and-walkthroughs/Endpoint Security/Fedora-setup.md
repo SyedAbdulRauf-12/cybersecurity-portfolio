@@ -46,7 +46,6 @@ After the install is done, you should restart your VM. and you are all good to g
 If at all you faced any difficulties or problems during the installation or setting up process that I didnt cover here then please dont be shy to use google and find out the solution.
 Googling is also an art and using it effectively makes a lot of difference.
 
--Syed Abdul Rauf
-
+-Syed Abdul Rauf, 2026
 
 
