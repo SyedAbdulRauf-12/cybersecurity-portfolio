@@ -10,6 +10,7 @@ College-notes-and-walkthroughs/
 |
 |--- Applied Network Security and Defence
 |    |--- VBox-Kali-Setup.md
+|    |--- Metasploitable2-setup.md
 |
 |--- Endpoint Security
 |    |--- Fedora-setup.md
