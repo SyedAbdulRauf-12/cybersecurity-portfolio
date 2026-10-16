@@ -28,5 +28,5 @@ Last updated: October 2026
 ## 📬 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOURLINKEDIN)
   
-  👾[Discord](https://discord.gg/CzrgWEsfK)
+  👾[My Discord](https://discord.com/users/743378330715422730)
 
