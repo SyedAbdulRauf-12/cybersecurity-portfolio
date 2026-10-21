@@ -104,7 +104,10 @@ Then you should see the current ISO file selected and click on remove disk from 
 <img width="1620" height="489" alt="image" src="https://github.com/user-attachments/assets/9445e571-afc4-4583-9846-577d0e7e3c6d" />
 
 It should reboot normally. If it doesnt and opens a terminal at the bottom of the machine window, then just select **"Machine"** at the top of the window
-and select **"Reset"**. It should finish normally and reboot.
+and select **"Reset"**. It should finish normally and reboot, You should be able to see this screen.  
+<img width="366" height="206" alt="image" src="https://github.com/user-attachments/assets/cf7b45c8-4cf7-4c02-aefc-879b2bdfb3f1" />  
+Don't worry if the screen is not EXACTLY the same as what you would see. I have made a different guide for setting up the networks for pfsense.
+
 
 That is all for this guide / walkthrough. If at all you faced any troubles or problems during the download or installation that I didnt cover
 please do not hesitate to google your problem and straighten it out. I will attach the link to Net-Gate's original installation walkthrough for more in-depth information which I highly recommend reading.  
