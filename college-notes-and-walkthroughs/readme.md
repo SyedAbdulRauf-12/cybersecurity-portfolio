@@ -12,6 +12,7 @@ College-notes-and-walkthroughs/
 |    |--- VBox-Kali-Setup.md
 |    |--- Metasploitable2-setup.md
 |    |--- pfsense-firewall-setup.md
+|    |--- pfsense_network_setup_guide.md
 |
 |--- Endpoint Security
 |    |--- Fedora-setup.md
