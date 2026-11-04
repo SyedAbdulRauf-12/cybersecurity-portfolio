@@ -18,15 +18,22 @@ scripts, and projects built through real hands-on learning.
 | thm-progress/ | TryHackMe room writeups and key takeaways |
 
 ---
+## Projects
+1. 🛡️ Interactive Phishing & Social Engineering Demo
+  An interactive web awareness demo illustrating social engineering vectors, user baiting mechanisms, and safe link verification habits.
+* [Live Website to spread Phishing links awareness.](https://syedabdulrauf-12.github.io/Silly-website-for-fun/)
+* **Repository:** [View Source Code](https://github.com/SyedAbdulRauf-12/Silly-website-for-fun)
+
+---
 
 ## 🔄 Actively Updated
 This repository is continuously updated as I learn and build.
-Last updated: October 2026
+Last updated: November 2026
 
 ---
 
 ## 📬 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOURLINKEDIN)
-  
-  👾[My Discord](https://discord.com/users/743378330715422730)
+
+👾[My Discord](https://discord.com/users/743378330715422730)
 
