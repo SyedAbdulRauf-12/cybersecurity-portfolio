@@ -1,5 +1,5 @@
 # FIND command:
-The basic structure is: 
+find only locates files by metadata like name, size, or date, rather than reading their internal contents. The basic structure is: 
 `find [where to look] [what to look for]`
 
 ## Where to look:
