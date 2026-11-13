@@ -1,25 +1,24 @@
 # Static aint always noise
-
-*Flag:* academy{d15a5m_t34s3r_fac3431a}
+<details><summary>Click to reveal flag </summary>
+<b>Flag: academy{d15a5m_t34s3r_fac3431a}</b>
+</details>
 
 ## Summary
-1-2 sentences: what the challenge was and the core vulnerability/idea.
-
-## Challenge Description
-Paste the original prompt and list any provided files or links.
+It was a pretty straight forward challenge. It tests the challengers ability to search through binary files to find the flag.
 
 ## Recon / Initial Analysis
-What you looked at first, tools used, and what stood out.
+
+- Checked the content of the binary file.
+- Cant run grep or find through binary files.
+- Will return only Binary matched.
+- Need to find the correct command to find the flag.
 
 ## Solution
-Step-by-step walkthrough with commands, code, and screenshots.
-Include dead ends briefly, since they show your thinking.
-
-## Exploit / Solve Script
-Full script or commands in a code block.
+- wget the files.
+- Display content.
+- Use the `strings <filename> | grep "academy"` command.
+-   strings will extract the readable content from the binary file and pipe it to grep command.
+- Flag will be extracted.
 
 ## Lessons Learned
-What you learned, what you'd do faster next time.
-
-## References
-Links to docs, CVEs, or writeups that helped.
+Binary files cannot be read normally. We need to extract the readable content and then display it.
