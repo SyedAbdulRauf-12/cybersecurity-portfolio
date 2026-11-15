@@ -1,27 +1,51 @@
-Submission Requirements and Academic Integrity
-1. Banner. Every program must start by printing your full name and student ID, and must use your
-personal value D where asked.
-2. What to submit. One ZIP named StudentID_A1.zip containing your .py files and a short PDF report
-with a screenshot of each program running in your own terminal.
-3. Comments. Add a comment in your own words above each important part of your code explaining
-what it does.
-4. One error. In your report, show one error you got while writing your code (screenshot) and explain
-in one or two sentences how you fixed it.
-5. Only what was taught. Use only the Python taught in Module 1 (Sessions 1–3).
-6. Code viva. In the class after the due date, you will be asked to explain your code and make one
-small change to it (for example, change a number or a message). If you cannot explain your own
-code, you will lose the marks for Understanding & Explanation.
-7. AI tools. Do not use AI tools to write your code. You may use them only to understand an error
-message, and you must mention this in your report. Copied or AI-generated code will be treated as
-per the Student Handbook policy on honor code.
-Declaration (copy into your report): I confirm that this code is my own work and that I can explain
-every line of it.
 # Assignment 1 Report
 **Subject** : Programming for Cybersecurity - PGDCS404  
 
-**Topic**: Variables, data types, Working with Strings, Decisions and Loops and Functions.  
+**Topic**: Variables, data types, Working with Strings, Decisions and Loops, Functions.  
 
 **Language**: Python
 
 ## 1. q1_types.py
+This program tested my knowledge of variable declarations, the different types of data types that exist, accessing elements inside a list, implicit and explicit type conversion concepts.  
+
+<img width="437" height="547" alt="image" src="https://github.com/user-attachments/assets/a67e5f44-ce5a-4340-a6b3-03c10ce38514" />
+
+
+### Error
+I faced this error because I didn't know how to access a dictionary which was stored in a list. I thought that we can access it through index, but I got confused and forgot that a dictionary is an unordered and mutable collection of 'key' and 'value' pairs. Then I realized my mistake and corrected it.  
+If it were a list then we could access a "list inside another list" or "nested lists" in that way i.e. list_name[index][nested_list_index]. e.g. list_name[2][1] this will access the 3rd elements 2nd element. But since it is a Dictionary, we use the key.  
+
+<img width="424" height="244" alt="image" src="https://github.com/user-attachments/assets/e0cfa980-0c09-4323-99fb-3208e0b9ad27" /><br>
+
+<img width="272" height="40" alt="image" src="https://github.com/user-attachments/assets/cd504b91-4189-4b4a-922a-e62569cbda06" />
+
+## 2. q2_strings.py
+This program checks the knowledge of implementation of string methods and working on the strings.  
+
+<img width="439" height="572" alt="image" src="https://github.com/user-attachments/assets/0c9180f4-f0f0-499d-a4c7-e5257a80dc86" />  
+
+### Error
+I faced no errors in this program, thankfully.
+
+## 3. q3_decisions.py
+This program tests the knowledge of using conditional statements and loops.  
+
+<img width="430" height="473" alt="image" src="https://github.com/user-attachments/assets/90018a27-dd81-4771-a7da-844dd79abcc0" />
+
+### Error
+No errors faced.
+
+## 4. q4_functions.py
+This program tests the knowledge of implementing functions.  
+
+<img width="557" height="475" alt="image" src="https://github.com/user-attachments/assets/8cfbec81-701d-4235-9425-0b09e02e87bc" />  
+
+### Error
+While implementing Try-Except inside the while loop, I faced some difficulty to decide what condition to run the while loop against. I decided on using True and implementing a break statement.
+
+---
+
+# Declaration: I confirm that this code is my own work and that I can explain every line of it.
+
+
 
